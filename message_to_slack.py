@@ -11,6 +11,6 @@ def post_message(token, channel, text):
 	print(response)
 
 if __name__ == '__main__':
-	token = 'xoxb-2335207350050-2335404994962-WHoJItxmr8DrvzIOzIErvR62'
+	token = ''
 	channel = '#cryptocurrency'
 	post_message(token, channel, "Heello")
